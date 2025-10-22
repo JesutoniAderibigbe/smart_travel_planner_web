@@ -1,0 +1,5 @@
+{
+  "name": "Smart Travel Planner",
+  "description": "An intelligent travel planner that suggests tourist destinations for a chosen country, displaying them on a map and in a detailed list. Powered by Gemini.",
+  "requestFramePermissions": []
+}
